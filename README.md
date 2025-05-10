@@ -42,7 +42,7 @@ Social Forum CMS is a content management system designed to create and manage so
 
 - **Frontend**: React
 - **Backend**: Node.js
-- **Database**: MongoDB
+- **Database**: MYSQL
 - **Authentication**: JWT
 
 ## Contributing
